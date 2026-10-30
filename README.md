@@ -269,6 +269,7 @@ DLD's Real Estate Tokenisation Project targets tokenised assets reaching 7% of t
 - [The Dubai Plug](https://www.buzzsprout.com/1795738) - Data-led monthly market breakdowns by Provident's Alessandro de Rubertis.
 - [Property Today on The Agenda](https://dubaieye1038.com/podcasts/property-today-on-the-agenda) - Dubai Eye 103.8 weekly radio segment with Mohanad Alwadiya.
 - [Real Estate Club Dubai](https://realestateclubdubai.com) - Independent research site comparing data platforms and ranking brokerages.
+- [Dive Dubai](https://dive-dubai.com) - Guides to Dubai and UAE living, diving, and coastal areas that buyers and tenants use when choosing waterfront communities. Maintained by the author of this list.
 
 ## Developer Resources
 
