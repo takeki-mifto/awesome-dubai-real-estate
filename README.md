@@ -2,7 +2,7 @@
 
 > A curated list of data sources, tools, regulators, portals, and proptech for Dubai real estate.
 
-Dubai's property market is unusually transparent: every sale, rent, and off-plan registration flows through the Dubai Land Department and much of it is published as open data. This list gathers the official sources, the tools built on top of them, and the services you actually need to buy, rent, invest, analyse, or build products in this market. Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
+Dubai's property market is unusually transparent: every sale, rent, and off-plan registration flows through the Dubai Land Department and much of it is published as open data. This list gathers the official sources, the tools built on top of them, and the services you actually need to buy, rent, invest, analyse, or build products in this market.
 
 ## Contents
 
@@ -22,7 +22,6 @@ Dubai's property market is unusually transparent: every sale, rent, and off-plan
 - [News & Media](#news--media)
 - [Developer Resources](#developer-resources)
 - [Key Numbers](#key-numbers)
-- [Related Lists](#related-lists)
 
 ## Regulators & Official Services
 
@@ -187,17 +186,19 @@ Dubai's property market is unusually transparent: every sale, rent, and off-plan
 
 Figures below are the commonly cited rules of thumb as of 2026. Always confirm with DLD or your bank before relying on them.
 
-- **4%** - DLD transfer fee on sale price, usually paid by the buyer, plus an admin fee of AED 580 for apartments and AED 430 for land.
-- **2%** - Typical brokerage commission on sales, paid by the buyer. Rentals are usually 5% of annual rent.
-- **0.25%** - Mortgage registration fee on the loan amount, plus AED 290.
-- **80% / 70%** - Maximum loan-to-value for expats on a first property under or over AED 5 million. UAE nationals get 85% / 75%.
-- **50%** - Maximum loan-to-value for off-plan purchases.
-- **AED 2,000,000** - Property value required for a Golden Visa.
-- **AED 750,000** - Property value required for the two-year Property Investor Visa.
-- **90 days** - Notice a landlord must give before expiry to change rent or terms.
-- **12 months** - Notarised notice required to evict a tenant for sale or personal use.
-- **0% to 20%** - Rent increase allowed on renewal, in 5% steps, depending on how far below the RERA index the current rent sits.
-- **5%** - VAT on commercial property; residential sales and leases are exempt, and first supply within three years of completion is zero-rated.
+| Figure        | What it is                                                                                                                            |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 4%            | DLD transfer fee on sale price, usually paid by the buyer, plus an admin fee of AED 580 for apartments and AED 430 for land.          |
+| 2%            | Typical brokerage commission on sales, paid by the buyer. Rentals are usually 5% of annual rent.                                      |
+| 0.25%         | Mortgage registration fee on the loan amount, plus AED 290.                                                                           |
+| 80% / 70%     | Maximum loan-to-value for expats on a first property under or over AED 5 million. UAE nationals get 85% / 75%.                        |
+| 50%           | Maximum loan-to-value for off-plan purchases.                                                                                         |
+| AED 2,000,000 | Property value required for a Golden Visa.                                                                                            |
+| AED 750,000   | Property value required for the two-year Property Investor Visa.                                                                      |
+| 90 days       | Notice a landlord must give before expiry to change rent or terms.                                                                    |
+| 12 months     | Notarised notice required to evict a tenant for sale or personal use.                                                                 |
+| 0% to 20%     | Rent increase allowed on renewal, in 5% steps, depending on how far below the RERA index the current rent sits.                       |
+| 5%            | VAT on commercial property; residential sales and leases are exempt, and first supply within three years of completion is zero-rated. |
 
 ## Related Lists
 
@@ -207,9 +208,3 @@ Figures below are the commonly cited rules of thumb as of 2026. Always confirm w
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
