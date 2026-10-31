@@ -73,7 +73,7 @@ Headline figures from the Dubai Land Department (DLD) and Dubai Media Office. Du
 
 ## Open Data & Market Analytics
 
-Sources here fall into three tiers with different update cycles and reuse terms: official DLD records (DLD Open Data, Dubai Pulse, RERA Rental Index, Dubai Statistics Center), platforms derived from DLD data (DXB Interact, Data Habibi, Property Monitor, REIDIN), and broker or consultancy research (Bayut, Property Finder, ValuStrat, Cavendish Maxwell, Asteco). Check each dataset's own licence on Dubai Pulse before redistributing it.
+Sources here fall into three tiers with different update cycles and reuse terms. Official DLD records (DLD Open Data, Dubai Pulse, RERA Rental Index, Dubai Statistics Center) are updated as transactions are registered. Platforms derived from DLD data (DXB Interact, Data Habibi, Property Monitor, REIDIN) typically run a few days behind the registry. Broker or consultancy research (Bayut, Property Finder, ValuStrat, Cavendish Maxwell, Asteco) is published monthly or quarterly. Check each dataset's own licence on Dubai Pulse before redistributing it. Last reviewed: October 2026.
 
 - [DLD Open Data](https://dubailand.gov.ae/en/open-data/) - Downloadable datasets of sales transactions, rents, valuations, projects, brokers, and more.
 - [Dubai Pulse](https://www.dubaipulse.gov.ae) - City open data platform that hosts the DLD datasets with APIs.
